@@ -1,31 +1,25 @@
-header{
-             background-color: #000000;
-             color:#FFFFFF;
-             text-align: center;
-             max-width: 800px;
-             margin: 0 auto;
-             padding: 16px;
-             border: 5px solid #000000;
-             
-        }
-        main{
-            background-color:#FFFFFF;
-            color:#020202;
-            max-width: 800px;
-             margin: 0 auto;
-             padding: 16px;
+:root {
+/* Nossas variáveis de cor ficarão aqui dentro */
+}:root {
+    --cor-primaria: #183C63;
+    --cor-secundaria: #3782d2;
+    --cor-fundo: #ffffff;
+    --cor-texto: #151428;
+    --cor-contraste: #f3eef7;
+    --cor-botao: #f9f9f9;
+}header {
+    background-color: var(--cor-primaria);
+}
 
-        } 
-
-        article{
-     display: flex;;
-        }
-        <//head>
-        
-        img{
-            width: 80px;
-            height: 80px;
-        }
-        .artigo-autor{
-         font-weight: bold;
-        }
+main {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+}    <!-- No arquivo index.html -->
+    <body class="tema-escuro">
+    /* No arquivo style.css */
+    .tema-escuro {
+    --cor-primaria: #c9e3ff; /* Um azul mais claro para destacar no fundo escuro */
+    --cor-fundo: #151428;    /* Fundo escuro */
+    --cor-texto: #ffffff;   /* Texto branco */
+    /* Continue invertendo as cores conforme o seu layout */
+    }
