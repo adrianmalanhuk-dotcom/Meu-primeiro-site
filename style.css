@@ -1,23 +1,26 @@
 :root{
 --cor-primaria:#183C63
 --cor-segundaria:315b88;
+--cor-fundo:#FFFFFF;
+--cor-contraste:#e9baba;
+--cor-botao:#ff5353;
 }
 
 body{
     max-width: 100vw;
 }
 header {
-    background-color: #315b88;
-    color: #FFFFFF;
+    background-color: var(--cor-primaria)
+    color: var(--cor-contraste))
     text-align: center;
     margin: 0 auto;
     padding: 16px;
-    border: 5px solid #5e1010;
+    border: 5px solid #ff5353;
 }
 
 main {
-    background-color: #FFFFFF;
-    color: #183C63;
+    background-color: var(--cor-botao)
+    color: var(var(--cor-primaria))
     margin: 0 auto;
     padding: 16px;
     display:flex;
