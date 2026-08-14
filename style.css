@@ -4,6 +4,15 @@
 --cor-fundo:#FFFFFF;
 --cor-contraste:#e9baba;
 --cor-botao:#ff5353;
+
+.tema-escuro{
+    cor-primaria:#183C63
+--cor-segundaria:315b88;
+--cor-fundo:#110202;
+--cor-contraste:#0e0303;
+--cor-botao:#ff5353;
+
+}
 }
 
 body{
