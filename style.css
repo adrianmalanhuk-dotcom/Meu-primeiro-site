@@ -3,26 +3,26 @@
 --cor-segundaria:315b88;
 --cor-fundo:#FFFFFF;
 --cor-contraste:#e9baba;
---cor-botao:#ff5353;
+--cor-botao:#ff5353;mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fumg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, ando branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
 
 .tema-escuro{
-    cor-primaria:#183C63
+    cor-primaria:#183C63mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
 --cor-segundaria:315b88;
---cor-fundo:#110202;
---cor-contraste:#0e0303;
---cor-botao:#ff5353;
-
+--cor-fundo:#110202;mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundmg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, ao branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
+--cor-contraste:#0e0303;mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
+--cor-botao:#ff5353;mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
+mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
 }
 }
 
 body{
-    max-width: 100vw;
+    max-width: 100vw;mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
 }
 header {
     background-color: var(--cor-primaria)
     color: var(--cor-contraste))
     text-align: center;
-    margin: 0 auto;
+    margin: 0 auto;mg src="engenharia mecanica.jpeg" alt="Logotipo minimalista e moderno em azul-marinho sobre fundo branco, composto pelo desenho estilizado de uma águia em voo com linhas fluidas e, logo abaixo, a
     padding: 16px;
     border: 5px solid #ff5353;
 }
