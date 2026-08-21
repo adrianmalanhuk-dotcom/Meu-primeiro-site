@@ -1,8 +1,8 @@
 :root{
---cor-primaria:#183C63
+--cor-primaria:00b7ff
 --cor-segundaria:#110202;
 --cor-fundo:#fd0000;
---cor-contraste:#e9baba;
+--cor-contraste:#00b7ff;
 --cor-botao:lab(1.78% 5.5 1.94);
 .tema-escuro{
     --cor-primaria:#183C6;
