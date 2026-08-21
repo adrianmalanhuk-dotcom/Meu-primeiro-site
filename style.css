@@ -1,13 +1,13 @@
 :root{
 --cor-primaria:00b7ff
 --cor-segundaria:7c7777;;
---cor-fundo:#edf5f4;
---cor-contraste:#ecf0f1;
---cor-botao:lab(94.35% 2.69 0.95);
+--cor-fundo:#004492;
+--cor-contraste:#002630;
+--cor-botao:lab(53.97% 3.41 1.22);
 .tema-escuro{
     --cor-primaria:#183C6;
---cor-fundo:#f1dada;
---cor-botao:#f1e3e3;
+--cor-fundo:#0043be;
+--cor-botao:#860505;
 }
 }
 
