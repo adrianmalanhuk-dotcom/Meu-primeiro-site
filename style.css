@@ -19,7 +19,7 @@ header {
     color: var(--cor-contraste);
     text-align: center;
     margin: 0 auto;
-    border: 5px solid #ff5353;
+    border: 5px solid #000000;
 }
 
 main {
